@@ -14,3 +14,5 @@ What are the conditions/context give rise to the epistemology and aesthetics of 
 - the shifting value of images which now have to contain intelligible patterns that ensure connectivity 
  
 What are the tools you can provide? How can you enact the network(s)?
+
+[[index]]
