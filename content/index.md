@@ -1,5 +1,5 @@
 ---
-title: Renderillas and Oraxotans
+title: Welcome to Renderillas and Oraxotans!
 ---
-Home page 
+![[Rendelillas_and_Oaxotans_Logo.png]]
 
