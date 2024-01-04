@@ -4,4 +4,6 @@ What are the conditions/contexts that give rise to the complicity of images?
 - 
 What are the tools you can provide? How can you enact the network(s)?
 
+Within a capitalist mode of [[Post-orthographic]] production, everything is measured by its ability to be shown and therefore capitalised on. What is seen as profitable is often conditioned by the information (images) that already circulate in our environment. Hence, capital gain is related to the repetition of [[Precedent]]s which have proven to be successful. In this system, experimentation, whether artistic or technological, is seen as a risk. As Carol Fritz (2021, p.26-7) points out in his essay “Alienation Beyond the Human”, in a state of [[Alienation]], the potential for novelty is smothered and futures are foreclosed. When “every invention or artistic endeavour must be predictably saleable as a commodity”, any sort of intervention will necessarily adhere to the dogmatic governing forces preventing future possibilities for becoming. That is the most severe consequence of all, the seemingly inevitable imaging of alternative futures. It is not a clearly defined utopian and egalitarian future that is at stake, because, as Fritz (2021, p.27) reminds us, “It is not so much that becoming is inherently good, but rather that the obstruction of becoming is generally unhealthy or dangerous.” 
+
 [[index]]
