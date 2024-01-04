@@ -1,1 +1,3 @@
 Mnemotechnics, as John May defines it, are “storehouses of the cumulative knowledge and wisdom we now refer to as “culture,” whose memory exceeds the lifespan of the finite individual”(May, 2019, p.39) They are what Bernard Stiegler calls tertiary forms of retention, which perform as an externalisation of memory, which in turn determine our retrieval and understanding of the past and possible projections of the future (Huy, 2012, p.390). 
+
+[[Representation]]  [[Alienation]] 
