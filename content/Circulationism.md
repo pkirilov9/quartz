@@ -2,4 +2,3 @@
 - digital technology = a new organization of the circulation of the symbolic => production of the symbolic becomes industrial, subject to industrial processes
 - Dependent on [[Media]] 
 
-[[index]]

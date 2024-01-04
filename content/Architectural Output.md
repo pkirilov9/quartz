@@ -4,4 +4,3 @@ While we may attribute the meteoric rise of the affective [[Image]] to the proli
 
 
 
-[[index]]

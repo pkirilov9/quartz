@@ -2,4 +2,3 @@
 - exhaustive combinatorials of images, partially recalling previous images. 
 - reformat existing streams of images and information
 
-[[index]]

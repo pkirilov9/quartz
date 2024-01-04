@@ -2,4 +2,3 @@ The fixation on form and sign as language is closely related to the fixation on 
 <p align= "center">“The object of architecture has been smashed to pieces. It is useless to hold on to what it was or what it ought to be! Situated at the intersection of political stakes of the first importance, of democratic and ethnic tensions, of economic, social and regional antagonisms that are nowhere near resolved, spurred on by constant technological and industrial mutations, it is irreversibly condemned to being dragged and pulled in every direction.” (Guattari,1989, p.1-2) </p>
 
 
-[[index]]
