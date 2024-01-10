@@ -7,7 +7,7 @@ title: '"Renderillas and Oraxotans"'
 
   This interactive repository seeks to explore the obscured onto-epistemology of the [[Image]]s we hold so dear, the networks that they shape, disrupt, and influence and the processes in which they are entangled.
 
-  Venture into an exploration of the myriad of links, get purposefully lost in the rabbit hole of visual culture, embrace chance along with the possibility of an unscripted interaction, and make up your own insights! 
+  Venture into an exploration of the myriad of links and [[Exercises]], get purposefully lost in the rabbit hole of visual culture, embrace chance along with the possibility of an unscripted interaction, and make up your own insights! 
 
 ![[Rendelillas_and_Oaxotans_Logo.png]]
 
