@@ -6,3 +6,6 @@ Mathematically constructed perspective and iconographic plans rendered reality o
 "Durand’s prescriptive method, where architecture is deconstructed into its constituent elements, results in the deskilling of design. What Durant offers is an economy of form to professionals who have to design architecture in great quantities" (Aurieli 2023, 81). In the terraced house, architecture was reduced to an object, and this exposed objecthood was the product of abstract economic facts, where architecture becomes relevant only at its most generic, reduced to mutable partitions installed and dismantled as needed (Aurieli 2023,135; 161).
 
 Accordingly, in order to become a commodity, space must have been subjected to systems of representation and procedures that allow it to be divided, measured, and compared (Stanek 2008, 70-1).
+
+
+[[index]]

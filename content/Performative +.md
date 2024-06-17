@@ -13,3 +13,6 @@ Knowledge production in this case is strictly related to experience and allows f
 "If the aesthetic frames and delimits, then performance can work to “unframe” the messy embodiment that constitutes our relationship to spaces and things, but only if the interpretive models we employ to analyse and historicise it remain equally active and open to contingency" (Jones 2013, 56).
 
 Emphasise the mundane, examine backgrounds and sites that fall outside common awareness where relational activity takes place. Engage with the unknowable, and accept the uneasiness and anxiety that come with experience that is unpredictable, otherwise, you will be back where you started looking at what is already recognisable and known. Not a prohibition against representation and its various forms, but rather their re-situation. Representation becomes presentation (of potentialities) when you think less about representing what you already know based on accepted norms and conventions, when you stop speaking for or about, but think with.
+
+
+[[index]]

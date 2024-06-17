@@ -5,5 +5,7 @@ While we may attribute the meteoric rise of the affective [[Image]], or the [[An
 To emerge as a concept, the architectural project required the opening of a gap between the planning and execution of architectural thought. This was secured by the [[Abstraction]] of physical space, its [[Quantification and Operationalisation +]], and recording in the form of orthographic drawing. Orthogonality ensured design precision and was therefore secured the "architect's authorship of architecture" (Aurieli 2023, 48). The "heightened abstraction of drawing" divided the intellectual and manual aspects of architecture, originating a design mentality rooted in geometry and mathematics (Aurieli 2023, 50). Endowed with newly-found objectivity and reason, this new form of architectural rhetoric became a new way of seeing the world through a projective lens. Therefore, as Pier Vittorio Aurieli puts it, "The capacity to plan (organise large masses of workers and mobile resources) became architecture's political precondition" (Aurieli 2023, 2).  Fast forward to nowadays, where, in the context of [[Contemporary Architectural Labour +]], the jurisdiction of the architect has been strictly confined to the project, which in its abstractive capacity is able to reduce reality "to the exactitude of measure, geometry, and later the relentless quantifying logic of money" (Aurieli 2023, xxi). 
 
 
+[[index]]
+
 
 

@@ -17,3 +17,6 @@ Annotation is the cognitive labour that consists in bridging what computer scien
 "the networked image is relationally constituted in the processual relay between the back-end extractive functions of the database and the front end of user interaction in uploading, sharing and viewing images" (Sluis 2022, 49).
 
 The logic of our position on the changed social relations and cultural form of the networked image necessarily extends to consider the challenge of how knowledge is produced, circulated and shared in the network (Center for the Study of the Networked Image 2021, 43). 
+
+
+[[index]]

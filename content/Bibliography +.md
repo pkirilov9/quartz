@@ -10,6 +10,8 @@
 
 - Aureli, Pier Vittorio. 2023. _Architecture and Abstraction_. The MIT Press. https://doi.org/10.7551/mitpress/14953.001.0001.
 
+- Bäcklund, Jan, Henrik Oxvig, Michael Renner, and Martin Søberg, eds. 2019. _What Images Do_. Aarhus: Aarhus University Press.
+
 - Beller, Jonathan. 2016. “Informatic Labor in the Age of Computational Capital.” _Lateral_ 5 (1). https://doi.org/10.25158/L5.1.4.
 
 - Benjamin, Walter. n.d. “The Work of Art in the Age of Mechanical Reproduction.” In _Illuminations_. New York: Schocken Books.
@@ -182,6 +184,11 @@
 
 - Yaneva, Albena, and Bruno Latour. 2013. “Give Me a Gun and I Will Make All Buildings Move: An ANT’s View of Architecture.” In _Architectural Theories of the Environment_, edited by Ariane Lourie Harrison, 117–24. Routledge. https://doi.org/10.4324/9780203084274-13.
 
+- Zones Urbaines Sensibles (Firm), Elma van Boxel, and Kristian Koreman, eds. 2019. _City of Permanent Temporality: Incomplete & Unfinished_. Rotterdam: nai010 Publishers
+
 - Екипът на София. n.d. “Между блоковете на София.” _https://ekipnasofia.bg/_ (blog). Accessed January 29, 2024. https://ekipnasofia.bg/solutions/between-the-blocks-of-sofia/.
 
 - “ЗА КОГО Е БЕЗПЛАТНО САНИРАНЕТО.” n.d. _Черна книга_ (blog). Accessed February 10, 2024. https://chernakniga.bg/za-kogo-e-bezplatno-saniraneto/.v
+
+
+[[index]]

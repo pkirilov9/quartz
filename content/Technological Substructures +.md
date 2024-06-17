@@ -7,3 +7,6 @@ The paradox springs from the dual nature of the digital image "as it is based up
 "The present ‘frenzy’ of image making and the parallel decline of visual knowledge is related to the paradox of software Chun describes. This is due to two competing phenomena: the proliferation of digital images and visual culture and the decline in the transparency of total information systems (Chun 2011: 15)" (Rubinstein and Sluis 2013, 32).
 
 [[Industrialisation of the Symbolic]]
+
+
+[[index]]

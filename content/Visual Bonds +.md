@@ -7,3 +7,4 @@
 "Rather than the art of making images, circulationism is connected with the post-production, launching and acceleration of images, and with the public relations of images across social networks that both establish and tear apart ‘communities loosely linked by shared attention deficit’.[38] If, as Debord claims, the society of the spectacle is an expropriation of our images, of our capacity to communicate and take part in symbolic exchange" (Cox and Lund 2016, 11).
 
 
+[[index]]
