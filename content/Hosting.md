@@ -4,5 +4,3 @@ Here I want to emphasise the importance of hosting as an alternative form of arc
 
 The way I approached this task was by compiling a set of [[Exercises]] that aim to "host" the processes that are involved in the production of architectural imagery and make them sensible. I see those Exercises as a distinctive form of [[Set]]s in the sense that they set up the context for an event to play out. They provide the necessary conditions for things to happen, however, unlike common representational techniques, they involve the [[Performative +]] processes and make them legible or perhaps palpable. Therefore, the archival entities are no longer regarded as static, unchangeable objects, but processes that "incorporate the processual dynamics" of the performative and make them "accessible as re-usable data" (Hoth 2019, 153). Exercises hold the capacity to reengage subjects, they require interaction and through it aim to produce new forms of literacy which can enable critical thought. Those actions actively battle [[Alienation]] and reintroduce a sense of engagement. 
 
-
-[[index]]

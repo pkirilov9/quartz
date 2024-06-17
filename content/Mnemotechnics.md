@@ -2,5 +2,3 @@ Mnemotechnics are “storehouses of the cumulative knowledge and wisdom we now r
 
 Representational techniques like linear perspective and parallel projections should be understood not merely as methods, but as an "epistemological framework" that reinvents the act of seeing the world scientifically, reducing the experience of space to mathematical abstraction (Aurieli 2015). Creating a means of measurement does more than simply quantify a phenomena; it establishes a way of perceiving and relating to the world (Bacon 2013, 79). Hence, Simondon's interchangeable reference to images, in which measurement and quantification becomes physically engrained, as schemas of action or behaviour (Hoel 2022, 18). In that sense, architectural technicity represents the transformation of empirical memory into a foundational condition for new experiences, or "the posteriori becoming a priori" (Radman 2022, 3).
 
-
-[[index]]

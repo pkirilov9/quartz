@@ -52,7 +52,7 @@
 
 - Farocki, Harun. 2004. “Phantom Images.” _Public_, no. 29 (January). https://public.journals.yorku.ca/index.php/public/article/view/30354.
 
-- Flaxman, Gregory, ed. 2000. _The Brain Is The Screen: Deleuze and The Philosophy of Cinema_. Minneapolis: University of Minnesota Press.
+- Flaxman, Gregory, ed. 2000. _The Brain Is The Screen: Deleuze and The Philosophy of Cinema. Minneapolis: University of Minnesota Press.
 
 - Flusser, Vilém. 2000. _Towards a Philosophy of Photography_. London: Reaktion Books.
 
@@ -184,11 +184,4 @@
 
 - Yaneva, Albena, and Bruno Latour. 2013. “Give Me a Gun and I Will Make All Buildings Move: An ANT’s View of Architecture.” In _Architectural Theories of the Environment_, edited by Ariane Lourie Harrison, 117–24. Routledge. https://doi.org/10.4324/9780203084274-13.
 
-- Zones Urbaines Sensibles (Firm), Elma van Boxel, and Kristian Koreman, eds. 2019. _City of Permanent Temporality: Incomplete & Unfinished_. Rotterdam: nai010 Publishers
-
-- Екипът на София. n.d. “Между блоковете на София.” _https://ekipnasofia.bg/_ (blog). Accessed January 29, 2024. https://ekipnasofia.bg/solutions/between-the-blocks-of-sofia/.
-
-- “ЗА КОГО Е БЕЗПЛАТНО САНИРАНЕТО.” n.d. _Черна книга_ (blog). Accessed February 10, 2024. https://chernakniga.bg/za-kogo-e-bezplatno-saniraneto/.v
-
-
-[[index]]
+- Zones Urbaines Sensibles (Firm), Elma van Boxel, and Kristian Koreman, eds. 2019. _City of  Permanent Temporality: Incomplete & Unfinished_. Rotterdam: nai010 Publishers

@@ -4,5 +4,3 @@ Architectural [[Representation]] possesses all the qualities of a set, it is an 
 
 As a part of my [[Performative +]] approach I will aim to create a different kind of an architectural set. One that is not defined by its static appearance, but rather by the actions that it enables.  [[Hosting]] performative action in those sets can reintroduce the "shot" that Deleuze defines as the key element which breaks the standstill of the moulded set. In fact, the "digital garden" which you are currently exploring does just that. In its explorative nature, reliant on your interaction with the singular points in this networks, it links them together in unpredictable ways, generating new storylines with each iteration. Similarly the “Booklet of Exercises in Visual Literacy”, made up of a series of [[Exercises]],  acts as a set, a field, a stage which "awaits events that establish the manner of play, which never repeat exactly" (Stoner 2012, 69), thereby constituting a performative archive.
 
-
-[[index]]

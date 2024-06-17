@@ -2,5 +2,3 @@ What I mean by elucidating is the search for a type of montage that produces som
 
 My approach to this task takes the form of [[Exercises]] because they re-situate the archival capacities of representation by opening it up to the contingent forces that the concept of [[Hosting]] is capable of accommodating by allowing for [[Performative +]]  action to take place within a [[Set]].
 
-
-[[index]]
