@@ -9,7 +9,7 @@ title: '"Renderillas and Oraxotans"'
 
   Venture into an exploration of the myriad of links and [[Exercises]], get purposefully lost in the rabbit hole of visual culture, embrace chance along with the possibility of an unscripted interaction, and make up your own insights! 
   
-  Find the full [[Bibliography +]] here. 
+  Find the full [[Bibliography]] here. 
 
 ![[Rendelillas_and_Oaxotans_Logo.png]]
 

@@ -10,6 +10,8 @@
 
 - Aureli, Pier Vittorio. 2023. _Architecture and Abstraction_. The MIT Press. https://doi.org/10.7551/mitpress/14953.001.0001.
 
+- Bacon, Julie Louise. 2013. “Unstable Archives: Languages and Myths of the Visible.” In _Performing Archives/Archives of Performance_, edited by Gundhild Borggreen and Rune Gade, 1st edition. In Between States Series. Copenhagen: Museum Tusculanum Press/Museum Tusculanums Forlag.
+
 - Bäcklund, Jan, Henrik Oxvig, Michael Renner, and Martin Søberg, eds. 2019. _What Images Do_. Aarhus: Aarhus University Press.
 
 - Beller, Jonathan. 2016. “Informatic Labor in the Age of Computational Capital.” _Lateral_ 5 (1). https://doi.org/10.25158/L5.1.4.
@@ -21,8 +23,12 @@
 - Borggreen, Gundhild, and Rune Gade, eds. 2013. _Performing Archives/Archives of Performance_. 1st edition. In Between States Series. Copenhagen: Museum Tusculanum Press/Museum Tusculanums Forlag.
 
 - Boumeester, Marc. Forthcoming. “Technicity as the Montage Production of the Mundane.” In _The Space of Technicity: Theorising Social, Technical and Environmental Entanglements_. Lenham MD: Lexington Books / Rowman & Littlefield.
+- 
+- Boumeester, Marc. 2019. “Iridescence of Perception: A-Signification Through Preemptive Desecration of the Visual Urzustand.” In _What Images Do_. Aarhus: Aarhus University Press.
 
 - Brown, Jeffrey W. 2005. “Deleuze’s Nietzschean Revaluation: The Image of Thought / Thought Without Image.” _Symposium_ 9 (1): 31–46. https://doi.org/10.5840/symposium2005913.
+
+- Burrbridge, Ben. 2022. “Post-Capitalist Photography.” In _The Networked Image in Post-Digital Culture: The Networked Image in Post-Digital Culture_, 1st ed. London: Routledge.
 
 - Canizares, Galo. 2019. “Everything Is Software.” In _107th ACSA Annual Meeting Proceedings, Black Box_, 518–24. ACSA Press. https://doi.org/10.35483/ACSA.AM.107.105.
 
@@ -31,6 +37,8 @@
 - Celis Bueno, Claudio. 2017. “Harun Farocki’s Asignifying Images.” _tripleC: Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society_ 15 (2): 740–54. https://doi.org/10.31269/triplec.v15i2.874.
 
 - Centre For The Study Of The Networked Image, Geoff Cox, Annet Dekker, Andrew Dewdney, and Katrina Sluis. 2021. “Affordances of the Networked Image.” _The Nordic Journal of Aesthetics_ 30 (61–62): 40–45. https://doi.org/10.7146/nja.v30i61-62.127857.
+
+- Clarke, Paul. 2013. “Performing the Archive: The Future of the Past.” In _Performing Archives/Archives of Performance_, edited by Gundhild Borggreen and Rune Gade, 1st edition. In Between States Series. Copenhagen: Museum Tusculanum Press/Museum Tusculanums Forlag.
 
 - Colebrook, Claire. 2008. “Leading Out, Leading On: The Soul of Educaiton.” In _Nomadic Education: Variations on a Theme by Deleuze and Guattari_, 35–42. BRILL. https://doi.org/10.1163/9789087904135.
 
@@ -41,8 +49,12 @@
 - Deleuze, Gilles. 1997. _Cinema 1: The Movement-Image_. 5th ed. Cinema / Gilles Deleuze 1. Minneapolis: University of Minnesota Press.
 
 - Dewdney, Andrew, and Katrina Sluis. 2022. _The Networked Image in Post-Digital Culture_. 1st ed. London: Routledge. https://doi.org/10.4324/9781003095019.
+- 
+- Dewdney, Andrew. 2022. “The Politics of the Networked Image.” In _The Networked Image in Post-Digital Culture: The Networked Image in Post-Digital Culture_, 1st ed. London: Routledge.
 
 - Dunker, Anders. 2020. “On Technodiversity: A Conversation with Yuk Hui.” Los Angeles Review of Books. June 9, 2020. https://lareviewofbooks.org/article/on-technodiversity-a-conversation-with-yuk-hui.
+
+- Eisner, Rivka Syd. 2013. “Living Archives as Interventions in Ea Sola’s Forgotten Fields.” In _Performing Archives/Archives of Performance_, edited by Gundhild Borggreen and Rune Gade, 1st edition. In Between States Series. Copenhagen: Museum Tusculanum Press/Museum Tusculanums Forlag.
 
 - Evans, Robin. 1984. “In Front of Lines That Leave Nothing Behind. Chamber Works.” _AA Files_, no. 6, 89–96.
 
@@ -100,6 +112,8 @@
 
 - Jacob, Sam. 2017. “Architecture Enters the Age of Post-Digital Drawing.” _Metropolis_. https://metropolismag.com/projects/architecture-enters-age-post-digital-drawing/.
 
+- Jones, Amelia. 2013. “Unpredictable Temporalities: The Body and Performance in (Art) History.” In _Performing Archives/Archives of Performance_, edited by Gundhild Borggreen and Rune Gade, 1st edition. In Between States Series. Copenhagen: Museum Tusculanum Press/Museum Tusculanums Forlag.
+
 - Joselit, David. 2013. _After Art_. Point. Princeton: Princeton University Press.
 
 - Kacunko, Slavko. 2013. “Archives, Data Bases and Processual Arts.”
@@ -142,6 +156,8 @@
 
 - Ono, Yōko, and John Lennon. 2000. _Grapefruit: A Book Of Instructions + Drawings_. New York Londres Toronto Sydney: Simon & Schuster.
 
+- Oxvig, Henrik. 2019. “Building Architecture with Images, Not Vice Versa.” In _What Images Do_. Aarhus: Aarhus University Press.
+
 - Pallasmaa, Juhani. 2007. _The Eyes Of The Skin: Architecture and The Senses_. Chichester: Wiley-Academy.
 
 -  Picon, Antoine, Emmanuel J. Petit, and Lucia Allais. 2004. “The Ghost of Architecture: The Project and Its Codification.” _Perspecta_ 35:8–19.
@@ -158,13 +174,23 @@
 
 - Rubinstein, Daniel, and Katrina Sluis. 2013. “The Digital Image In Photographic Culture: Algorithmic Photography and The Crisis of Representation.” In _The Photographic Image in Digital Culture_, edited by Martin Lister, 36–54. Routledge. https://doi.org/10.4324/9780203797563-8.
 
+- Schwab, Martin. 2000. “Escape from the Image: Deleuze’s Image-Ontology.” In _The Brain Is The Screen: Deleuze and The Philosophy of Cinema_. Minneapolis: University of Minnesota Press.
+
 - Schwarte, Ludger. 2014. “Performative Architecture – Setting a Stage for Political Action.” Pavilion Magazine. 2014. https://www.pavilionmagazine.org/ludger-schwarte-performative-architecture-setting-a-stage-for-political-action/.
 
+- Schwarte, Ludger. 2019. “The Birth of the Skeleton: Facing the Truth.” In _What Images Do_. Aarhus: Aarhus University Press.
+
 - Simondon, Gilbert. 2022. _Imagination and Invention_. Translated by Joe Hughes and Christophe Wall-Romana. A Univocal Book. Minneapolis London: University of Minnesota Press.
+
+- Sluis, Katrina. 2022. “The Networked Image After Web 2.0.” In _The Networked Image in Post-Digital Culture: The Networked Image in Post-Digital Culture_, 1st ed. London: Routledge.
 
 - Smith, Chris. 2017. _Bare Architecture: A Schizoanalysis_. London Oxford New York New Delhi Sydney: Bloomsbury Academic.
 
 - Smith, Terry. 2021. “Iconomy, Iconoclash ≠ Iconomics.” _The Nordic Journal of Aesthetics_ 30 (61–62): 172–94. https://doi.org/10.7146/nja.v30i61-62.127897.
+
+- Songel, Juan María, and Frei Otto. 2010. _A Conversation with Frei Otto_. English ed. Conversations: A Princeton Architectural Press Series. New York: Princeton Architectural Press.
+
+- Martin, Søberg. 2019. “Iconic Stabilising:  Roy Lichtenstein’s Enstablatures.” In _What Images Do_. Aarhus: Aarhus University Press.
 
 - Stanek, Łukasz. 2008. “Space as Concrete Abstraction: Hegel, Marx, and Modern Urbanism in Henri Lefebvre.” In _Space, Difference, Everyday Life_, edited by Kanishka Goonewardena, Kipfer, Richard Milgrom, and Christian Schmid, 1st ed., 62–79. New York: Routledge, Taylor & Francis Group.
 
@@ -174,9 +200,15 @@
 
 - Stoner, Jill. 2012. _Toward a Minor Architecture_. Cambridge, Mass.: MIT Press.
 
+- Tendone, Gaia. 2022. “The Paradoxes of Curating the Networked Image.” In _The Networked Image in Post-Digital Culture: The Networked Image in Post-Digital Culture_, 1st ed. London: Routledge.
+- 
+- van Tuinen,Sjoerd. 2019. “Mannerism and Hysteria:  On the Mode of Existence of Painting.” In _What Images Do_. Aarhus: Aarhus University Press.
+
 - Vannini, Phillip, ed. 2020. _Non-Representational Methodologies: Re-Envisioning Research_. First issued in paperback. Routledge Advances in Research Methods 12. London New York: Routledge, Taylor & Francis Group.
 
 - Vidler, Anthony. 2000. “Diagrams of Diagrams: Architectural Abstraction and Modern Representation.” _Representations_, no. 72, 1–20. https://doi.org/10.2307/2902906.
+
+- Warburrton, Alan. 2022. “Soft Subjects.” In _The Networked Image in Post-Digital Culture: The Networked Image in Post-Digital Culture_, 1st ed. London: Routledge.
 
 - Weizman (In Conversation With Jacob Lund), Eyal. 2021. “Inhabiting the Hyper-Aesthetic Image.” _The Nordic Journal of Aesthetics_ 30 (61–62): 230–43. https://doi.org/10.7146/nja.v30i61-62.127901.
 
